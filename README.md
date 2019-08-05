@@ -39,7 +39,7 @@ printf("%s", "</header>\n");
 
 #### Input
 
-```
+```html
 <header class="navbar container">
 	<section class="navbar-section" style="padding:15px;">
 		<img src="logo.svg">
